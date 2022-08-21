@@ -1,2 +1,2 @@
 # Pendu
-Jeu Python
+python game in development 
